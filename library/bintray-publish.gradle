@@ -60,7 +60,7 @@ bintray {
         name = ARTIFACT_ID
         licenses = ['Apache-2.0']
         labels = ['android']
-
+        vcsUrl = 'https://github.com/yorickvanzweeden/RecyclerView-MultipleViewTypesAdapter.git'
         version {
             name = VERSION_NAME
             vcsTag = VERSION_NAME
